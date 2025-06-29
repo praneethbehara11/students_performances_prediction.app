@@ -1,0 +1,1 @@
+"C:\Users\Praneeth Behara\AppData\Local\Programs\Python\Python313\python.exe" model_training.py
